@@ -89,7 +89,7 @@ class UserController extends GetxController {
   }
 
   updateUserData(Map<String, dynamic> data) {
-    logger.i("UPDATED");
+    logger.i("UPDATED THE FORM");
     firebaseFirestore
         .collection(usersCollection)
         .doc(firebaseUser.value.uid)

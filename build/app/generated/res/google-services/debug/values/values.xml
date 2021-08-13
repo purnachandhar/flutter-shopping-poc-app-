@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">154969989879-75pcfgop9ceisebisk4u1ngu718q6ftp.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">154969989879</string>
+    <string name="google_api_key" translatable="false">AIzaSyDSEZd4cyD_ZFgv6lm1Acnm4ggTp1eFSRM</string>
+    <string name="google_app_id" translatable="false">1:154969989879:android:164c1b5b75b34e5c9ae9f2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDSEZd4cyD_ZFgv6lm1Acnm4ggTp1eFSRM</string>
+    <string name="google_storage_bucket" translatable="false">shoopingpoc.appspot.com</string>
+    <string name="project_id" translatable="false">shoopingpoc</string>
+</resources>

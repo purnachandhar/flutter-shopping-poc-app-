@@ -22,7 +22,7 @@ class PaymentsController extends GetxController {
   void onReady() {
     super.onReady();
     StripePayment.setOptions(StripeOptions(
-        publishableKey: "pk_test_vdof9EwWNjWX6gglW2xjji3Y00mLAezzRK",
+        publishableKey: "pk_test_51I3xZAHErj4EomWEHxothltEs2osUP3GAthtE48qfICyhApq6bLXBp9MTreO6N8aLyDD8YTpYzIb9HUHdNPfZQ7R00JDwviWPZ",
         androidPayMode: 'test'));
   }
 

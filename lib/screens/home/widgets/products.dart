@@ -4,7 +4,7 @@ import 'package:untitled/models/product.dart';
 import 'package:untitled/screens/home/widgets/single_product.dart';
 import 'package:get/get.dart';
 
-class ProductsWidget extends StatelessWidget {
+class  ProductsWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Obx(()=>GridView.count(

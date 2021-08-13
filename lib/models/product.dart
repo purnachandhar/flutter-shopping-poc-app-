@@ -18,7 +18,8 @@ class ProductModel{
     image = data[IMAGE];
     name = data[NAME];
     brand = data[BRAND];
-    price = data[PRICE].toDouble();
+    // price = data[PRICE].toDouble();
+    price = double.parse(data[PRICE].toString());
   }
 
 }
